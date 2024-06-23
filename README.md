@@ -1,10 +1,10 @@
 ### Hi, I'm Ewa! 👋
 
-:deciduous_tree: I am an ecologist with a master degree in Forestry.  
+:deciduous_tree: I am an ecologist with a master's degree in Forestry.  
 
-:earth_africa: Currently I work with spatial data and GIS - namely, I create maps.  
+:earth_africa: Currently I work with spatial data and GIS. Mostly I create maps.  
 
-:books: I am also teaching myself Data Science.
+:books: I also study Informatics - Data Science at AGH in Kraków.
 
 
 :point_right: Advice and constructive criticism are always appreciated.
