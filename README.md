@@ -10,7 +10,7 @@
 :point_right: Advice and constructive criticism are always appreciated.
 
 
-[![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,postgres)](https://skillicons.dev)
 
 <!--
 **ewa-siedlarczyk/ewa-siedlarczyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,5 +30,4 @@ Here are some ideas to get you started:
 
 # badges:
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
-
 -->
